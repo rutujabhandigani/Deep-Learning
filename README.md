@@ -53,7 +53,7 @@
          4. It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 
      • Operations to be performed:
-         1. Import the required Python libraries and dataset
+         1. Import the required Python libraries and dataset <br>
          2. Normalizing dataset (reshaping training and testing images)
          3. Build the model: Identifying model requirement (number of convolution layers pooling layers, fully connected layers, size of filters/kernel used, activation function used)
          4. Compile the model: Optimize the model to adjust the weights to minimize the losses (which optimizer to be used) Identifying optimizer and loss function.
