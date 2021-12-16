@@ -58,4 +58,5 @@
          3. Build the model: Identifying model requirement (number of convolution layers pooling layers, fully connected layers, size of filters/kernel used, activation function used)
          4. Compile the model: Optimize the model to adjust the weights to minimize the losses (which optimizer to be used) Identifying optimizer and loss function.
          5. Train the model with Image dataset
+          
     
