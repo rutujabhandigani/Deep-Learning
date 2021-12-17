@@ -61,4 +61,25 @@
          6. Predict/Test the model <br>
          7. Model performance visualization in terms of accuracy and loss <br>
           
-    
+ 
+ 3. Implementation of a prediction model for time series data using pre-trained architecture <br>
+      Different deep learning pre-trained Architectures available:
+      1. squeezenet<br>
+      2. googlenet<br>
+      3. inceptionv3<br>
+      4. densenet201<br>
+5. mobilenetv2
+6. resnet18
+7. resnet50
+8. resnet101
+9. xception
+10. inceptionresnetv2
+11. shufflenet
+12. nasnetmobile
+13. nasnetlarge
+14. darknet19
+15. darknet53
+16. efficientnetb0
+17. alexnet
+18. vgg16
+19. vgg19
