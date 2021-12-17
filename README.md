@@ -83,3 +83,22 @@
       17. alexnet<br>
       18. vgg16<br>
       19. vgg19<br>
+
+   • Pretrained architecture used: <br>
+        Long Short-Term Memory: <br>
+        LSTM is one of the most widely used recurrent structures in sequence modeling. It uses gates to control information flow in the recurrent computations.LSTM networks are         very good at holding long term memories. The memory may or may not be retained by the network depending on the data. Preserving the long term dependencies in the network         is done by its Gating mechanisms. The network can store or release memory on the go through the gating mechanism. <br>
+        
+   • Time Series Data: <br>
+         Shampoo Sales Dataset <br>
+         This dataset describes the monthly number of sales of shampoo over a 3-year period. The units are a sales count and there are 36 observations.
+         The original dataset is credited to Makridakis, Wheelwright, and Hyndman(1998). <br>
+         
+   • Operations to be performed:<br>
+      1. Import the required Python libraries and dataset. <br>
+      2. Normalizing dataset.<br>
+      3. Identifying the pretrained model to be used.<br>
+      4. As per the need, fine tune the pretrained architecture.<br>
+      5. Train the model with a training dataset.<br>
+      6. Predict the model with a testing dataset.<br>
+      7. Model performance visualization in terms of accuracy and loss.<br>
+    
