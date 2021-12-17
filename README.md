@@ -68,18 +68,18 @@
       2. googlenet<br>
       3. inceptionv3<br>
       4. densenet201<br>
-5. mobilenetv2
-6. resnet18
-7. resnet50
-8. resnet101
-9. xception
-10. inceptionresnetv2
-11. shufflenet
-12. nasnetmobile
-13. nasnetlarge
-14. darknet19
-15. darknet53
-16. efficientnetb0
-17. alexnet
-18. vgg16
-19. vgg19
+      5. mobilenetv2<br>
+      6. resnet18<br>
+      7. resnet50<br>
+      8. resnet101<br>
+      9. xception<br>
+      10. inceptionresnetv2<br>
+      11. shufflenet<br>
+      12. nasnetmobile<br>
+      13. nasnetlarge<br>
+      14. darknet19<br>
+      15. darknet53<br>
+      16. efficientnetb0<br>
+      17. alexnet<br>
+      18. vgg16<br>
+      19. vgg19<br>
